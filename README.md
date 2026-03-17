@@ -11,6 +11,7 @@ Focus: reproducible feature engineering, structured model comparison, and experi
 |---|---|---|
 | Ridge (Baseline) | 0.1508 ± 0.0086 | 5681 ± 1066 |
 | GBM | 0.0987 ± 0.0068 | 3691 ± 924 |
+| LightGBM | 0.0908 ± 0.0062 | 3377 ± 932 |
 
 ---
 
